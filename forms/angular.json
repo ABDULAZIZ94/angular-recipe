@@ -121,5 +121,8 @@
       }
     }
   },
-  "defaultProject": "angular.io-example"
+  "defaultProject": "angular.io-example",
+  "cli": {
+    "analytics": "d4cc96af-c70d-4987-87e7-9d5e2bc28848"
+  }
 }
